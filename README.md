@@ -4,6 +4,12 @@ A new Flutter application.
 
 ## Getting Started
 
+<img src="screenshots/1.png" height="600">
+
+<img src="screenshots/2.png" height="600">
+
+<img src="screenshots/3.png" height="600">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
